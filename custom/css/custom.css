@@ -1,0 +1,183 @@
+.img-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(238, 147, 147, .2);
+}
+
+.shop-add-btn-cont {
+    margin-right: 0;
+}
+
+.post-prev-img img {
+    height: 160px;
+    object-fit: cover;
+}
+
+.transport-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.transport-box i {
+    font-size: 45px;
+}
+
+.transport-box h3 {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    color: #4b4e53;
+    font-weight: 300;
+    font-size: 18px;
+    text-align: center;
+}
+
+.logo-img {
+    height: 80px;
+}
+
+.bg-red {
+    background-color: #D83F31;
+    color: white;
+}
+
+.bg-black-deep p {
+    color: white;
+}
+
+#about {
+    background: url(../Icon/banner.jpg);
+    background-size: cover;
+    background-position: center center;
+    min-height: 85vh;
+}
+
+.special-title {
+    font-weight: bold;
+    font-size: 4rem;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 6rem;
+}
+
+.section-promo {
+    background: #E9B824;
+    color: black;
+}
+
+.font-black {
+    color: black !important;
+}
+
+.fes4-cont {
+    padding-top: 65px;
+    padding-bottom: 40px;
+}
+
+h1 {
+    margin: 20px 0 16px 0;
+}
+
+.port-view-more {
+    background: #EE9322;
+    color: white;
+}
+
+.button {
+    background: #EE9322;
+    color: white;
+}
+
+.port-view-more-dark {
+    background: #EE9322;
+}
+
+.yellow-bg {
+    background: #E9B824;
+    color: black;
+}
+
+.yellow-bg .transport-box h3 {
+    color: black;
+}
+
+.yellow-bg .cis-text h3 {
+    color: black;
+}
+
+.yellow-bg a {
+    color: black;
+}
+
+.yellow-bg .cis-text {
+    border-left: 1px solid black;
+}
+
+.popular-tour {
+    min-height: 380px;
+}
+
+.post-prev-title {
+    text-transform: uppercase;
+}
+
+.payment-icon {
+    font-size: 45px;
+}
+
+.payment-icon-img {
+    height: 45px;
+    margin-bottom: 25px;
+}
+
+.whatsApp_button_app {
+    z-index: 100;
+    position: fixed;
+    bottom: 60px;
+    right: 19px;
+    padding: 8px 13px;
+    border-radius: 50%;
+    background-color: rgb(45, 202, 45);
+    text-decoration: none;
+}
+
+.whatsApp_button_app i {
+    font-size: 40px;
+    color: white;
+}
+
+.work-proc-1-bg {
+    background: #2c2c2c url(/custom/img/malaysia_bus.jpg) fixed;
+    background-size: cover;
+}
+
+.section-center.img-overlay {
+    background-color: rgb(0, 0, 0, .6);
+}
+
+.post-prev-text {
+    border-bottom: unset;
+}
+
+.img-overlay.black {
+    background-color: rgb(0, 0, 0, .6);
+}
+
+.button.whatsapp {
+    background-color: rgb(45, 202, 45);
+}
+
+.button.whatsapp .fa-whatsapp {
+    font-size: 2rem;
+}
+
+.blog-single-fullwidth-img {
+    padding-top: 250px;
+}
+
+.page-title-img {
+    background-position: bottom center;
+}
